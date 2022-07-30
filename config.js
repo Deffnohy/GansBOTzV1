@@ -1,18 +1,18 @@
 let fs = require('fs')        
 let chalk = require('chalk')
 global.owner = [
-  ['6289509960601'],
-  ['6289509960601'],
-  ['6289509960601', 'Deffri Gans', true]  
+  ['6282268997248'],
+  ['6282268997248'],
+  ['6282268997248', 'IamJoo', true]  
   
 ] 
-global.ownername = [['𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬']]
-global.namabot = [['𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛']]
+global.ownername = [['IamJoo']]
+global.namabot = [['Its𝑩𝑶𝑻𝒛']]
 global.ownerinsta = [['@b4c00t.dtz']]
 global.instalu = [['instagram.com/b4c00t.dtz']]
 global.ytlu = [['https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA']]
 global.mods = [] 
-global.prems = ['6289509960601'] 
+global.prems = ['6282268997248'] 
 
 global.APIs = { 
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -59,9 +59,9 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-global.packname = '𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬'
-global.author = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛'
-global.wm = '© Deffri Gans'
+global.packname = 'IamJoo'
+global.author = 'Its𝑩𝑶𝑻𝒛'
+global.wm = '© IamJoo'
 
 global.multiplier = 100
 
